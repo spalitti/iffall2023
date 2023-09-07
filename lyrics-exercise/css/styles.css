@@ -1,0 +1,36 @@
+.courage{
+    font-family: courage, sans-serif;
+    font-style: normal;
+    font-weight: 400;}
+.templategothic{
+    font-family: "template-gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;}
+.templategothicbold{
+    font-family: "template-gothic", sans-serif;
+    font-weight: 700;
+    font-style: normal;}
+.freightbookitalic{
+    font-family: "freight-big-pro", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 20px;
+    color: #251b21}
+.loresOTbold{
+    font-family: "lores-12", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+    color: #eb4024 ;}
+.freightbook{
+    font-family: "freight-display-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #a3a66f}
+p{line-height:24px ;
+padding-left: 235px ;
+padding-right: 50px;}
+h2{padding-left: 50px; 
+}
+h1{padding-left: 50px; padding-top: 10px;}
+body{background-color: #484979;}
