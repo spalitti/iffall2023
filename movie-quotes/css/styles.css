@@ -1,0 +1,73 @@
+.burnaby {
+    font-family: burnaby-stencil, sans-serif; 
+    font-style: normal; 
+    font: weight 400px; 
+    color:greenyellow;
+}
+.bodytext{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-style: normal; 
+    font-size: 18px; 
+    font-color: rgb(248, 171, 218)}
+
+.eticamono{
+    font-family: lft-etica-mono, sans-serif; 
+    font-style: normal; 
+    font-weight: 500; 
+    color:rgb(42, 66, 6); }
+
+.johndoe{font-family: john-doe, sans-serif;
+    font-style: normal;
+    font-weight: 400;}
+
+.burnaby2{
+    font-family: burnaby-stencil, sans-serif; 
+    font-style: normal; 
+    font: weight 400px; 
+    color:rgb(81, 128, 12);
+}
+.nitti{
+    font-family: nitti-typewriter-cameo, sans-serif; 
+    font-style: normal; 
+    font-weight: 700;
+    color:rgb(42, 66, 6);
+}
+.franklin{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(42, 66, 6)}
+
+p{
+    padding-left: 200px; 
+    padding-bottom: 100px; 
+    padding-right: 500px; 
+    line-height: 17px;}
+
+h2{
+    padding-left: 150px;}
+
+header{
+    padding-left: 500px; 
+    padding-bottom: 20px; 
+    padding-top: 20px;}
+
+.typewriter{
+    font-family: prestige-elite-std, monospace; 
+    font-style: normal; 
+    font-weight: 2000; 
+    color:greenyellow;
+    background-color:rgb(42, 66, 6);
+    margin-right: 60%;}
+    
+
+.typewriter2{
+    font-family: prestige-elite-std, monospace; 
+    font-style: normal; 
+    font-weight: 600; 
+    color:rgb(81, 128, 12)}
+
+.typewriter3{
+    font-family: prestige-elite-std, monospace; 
+    font-style: normal; 
+    font-weight: 600; 
+    color:rgb(12, 19, 1)}
+body{background-color: rgb(220, 247, 181);}
