@@ -1,0 +1,26 @@
+html{
+    font-family: "freight-text-pro";
+    background-color: rgb(255, 248, 225);
+}
+ h1{
+    font-family: "freight-text-pro", serif;
+    font-weight: 300;
+    font-style: normal;
+    margin-left: 3%;
+    margin-top: 3%;
+    font-size: 30pt;}
+h2{
+    font-family: "freight-text-pro", serif;
+    font-weight: 200;
+    font-style: italic;
+    margin-left: 4%;
+    font-size: 20pt;
+}
+p{
+    font-family: "freight-text-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 4%;
+    margin-right: 40%;
+    font-size: 14pt;
+}
