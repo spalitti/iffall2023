@@ -1,0 +1,64 @@
+body{
+    width: 800px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media (min-width: 640px){
+    html {
+        background-color: #eaf6ff} 
+}
+@media (max-width: 500px){
+    h1 {
+        font-size: 1.5rem;}
+}
+@media (min-width: 640px){
+    h1 {
+        font-size: 2.5rem;}
+}
+#fixed-size-grid-items ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+ul {
+    padding-left: 0;
+}
+ul {
+    padding-left: 0;
+}
+#fixed-size-grid-items aside {
+    width: 170px;
+    margin: 10px;
+    font-size: 0.8rem;
+}
+aside{
+    display: block;
+}
+li{
+    list-style: none;
+}
+#stretchable-grid-items ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#stretchable-grid-items aside{
+    margin: 10px;
+    font-size: 0.8rem;
+}
+@media (min-width: 480px){
+    li {
+        width: 50%;} 
+}
+@media (min-width: 640px){
+    li {
+        width: 25%;} 
+}
+ul{
+    margin-top: -10px;
+    margin-bottom: -10px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
