@@ -1,0 +1,107 @@
+html{
+    font-family: "freight-text-pro";
+    background-color: rgb(255, 248, 225);
+}
+img{
+    max-width: 100%;
+}
+body{
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 90%;
+    max-width: 40rem;
+}
+h1{
+    font-family: "freight-text-pro", serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 45pt;}
+h2{
+    font-family: "freight-text-pro", serif;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 20pt;
+}
+p{
+    font-family: "freight-text-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14pt;
+}
+p{font-size: 14pt;}
+    @media (min-width: 640px) {
+    p { font-size: 16pt; }
+}
+div.introtext{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h3{
+    font-family: "freight-text-pro", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16pt;
+}
+.footer{ 
+    font-family: "freight-text-pro", serif;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 10pt;
+    margin-top: 10%;
+}
+.prep{
+    font-family: "freight-text-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12pt;
+    list-style-type: none;
+}
+aside{
+    display: block;
+}
+
+ul.ingred{
+    padding-left: 0%;
+    list-style: none;
+}
+.ingred{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ingred{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.ingred{
+    width: 100%;
+}
+.ingred{
+    font-size: 10pt;
+    text-align: center;
+}
+.ingred li{
+    margin-bottom: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+@media (max-width: 480px){
+    .ingred {
+        grid-template-columns: 1fr 1fr;} 
+}
+@media (max-width: 240px){
+    .ingred {
+        grid-template-columns: 1fr; } 
+}
+div.instruct{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ingredients{
+    padding-left: 0%;
+}
+.steps li{
+    margin-top: 5%;
+}
